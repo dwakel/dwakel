@@ -1,4 +1,31 @@
-### Hi there 👋
+
+### Hi there 👋🏾
+
+I'm Selorm and I am a software engineer.
+<!-- [here](https://dev.to/dwakel) -->
+
+- 🌱 I’m currently learning Golang
+- 👯 I’m looking to collaborate on Android or Flutter projects
+- 💬 Ask me about anything football, Android or software engineering in general
+- 📫 You can reach me at: [avokeselorm@live.com](mailto:avokeselorm@live.com)
+
+### GitHub Stats
+
+<a href="https://github.com/dwakel/dwakel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dwakel&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Selorm's GitHub Stats" />
+</a>
+
+<a href="https://github.com/dwakel/dwakel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwakel&hide=html,php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<p align="left"> 
+  <b>Visitor count</b><br>
+  <img src="https://profile-counter.glitch.me/dwakel/count.svg" />
+</p>
+
+
 
 <!--
 **dwakel/dwakel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
