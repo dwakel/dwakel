@@ -20,10 +20,10 @@ I'm Selorm and I am a software engineer.
 </a>
 
 
-<p align="left"> 
+<!-- <p align="left"> 
   <b>Visitor count</b><br>
   <img src="https://profile-counter.glitch.me/dwakel/count.svg" />
-</p>
+</p> -->
 
 
 
