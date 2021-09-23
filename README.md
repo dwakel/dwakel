@@ -4,7 +4,7 @@
 I'm Selorm and I am a software engineer.
 <!-- [here](https://dev.to/dwakel) -->
 
-- 🌱 I’m currently learning Golang
+<!-- - 🌱 I’m currently learning Golang -->
 - 👯 I’m looking to collaborate on projects
 <!-- - 💬 Ask me about anything football, Android or software engineering in general -->
 - 📫 You can reach me at: [avokeselorm@live.com](mailto:avokeselorm@live.com)
