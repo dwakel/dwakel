@@ -8,7 +8,9 @@ I'm Selorm and I am a software engineer.
 - 👯 I’m looking to collaborate on projects
 <!-- - 💬 Ask me about anything football, Android or software engineering in general -->
 - 📫 You can reach me at: [avokeselorm@live.com](mailto:avokeselorm@live.com)
-- https://www.linkedin.com/in/selormavoke/
+- <a href="https://www.linkedin.com/in/selormavoke/" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp;
 
 ### GitHub Stats
 
